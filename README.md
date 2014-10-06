@@ -13,3 +13,4 @@ Required Story - Basic Tip Calculator
 
 GIF walkthrough of all required and optional stories (using LiceCap)
 
+![](https://github.com/skyspeak/tipapp/blob/master/tipper%20app.gif)
